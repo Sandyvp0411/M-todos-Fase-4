@@ -5,7 +5,7 @@ Este proyecto integra análisis bibliométrico, análisis de sentimiento (NLP) y
 
 ## Integrantes del Grupo
 * Sandra Milena Velandia Pacheco
-* Daniela AyalaPotes
+* Daniela Ayala Potes
 * [Nombre de tu compañero 3]
 
 ## Estructura del Repositorio
