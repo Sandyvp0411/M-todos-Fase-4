@@ -6,7 +6,8 @@ Este proyecto integra análisis bibliométrico, análisis de sentimiento (NLP) y
 ## Integrantes del Grupo
 * Sandra Milena Velandia Pacheco
 * Daniela Ayala Potes
-* [Nombre de tu compañero 3]
+* Ernesto Alejandro Cote
+
 
 ## Estructura del Repositorio
 * `Fase_4_Dashboard_BI.ipynb`: Notebook de Google Colab con el flujo analítico.
