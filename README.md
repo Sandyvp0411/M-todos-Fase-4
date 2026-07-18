@@ -10,5 +10,5 @@ Este proyecto integra análisis bibliométrico, análisis de sentimiento (NLP) y
 
 
 ## Estructura del Repositorio
-* `Fase_4_Dashboard_BI.ipynb`: Notebook de Google Colab con el flujo analítico.
+* `Copia_de_Fase_4.ipynb`: Notebook de Google Colab con el flujo analítico.
 * `data/`: Carpeta con las bases de datos utilizadas.
